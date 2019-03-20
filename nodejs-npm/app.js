@@ -1,0 +1,1 @@
+console.log("nmp project with package.json");
